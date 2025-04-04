@@ -4,3 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+  - package-ecosystem: "nuget"
+    directroy: "/code/"
+    schedule:
+      interval: "weekly"
